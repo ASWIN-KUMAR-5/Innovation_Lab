@@ -8,7 +8,9 @@ git remote add origin ____link_____
 
 git push -u origin master 
 
-IF u want to push the changes made use following command in order
+# IF u want to push the changes made use following command in order
+
+git add ____filename____ --> make your file added in waiting area 
 
 git commit -m "The message we need to give"
 
