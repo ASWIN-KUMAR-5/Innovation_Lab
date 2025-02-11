@@ -1,0 +1,9 @@
+git add ____filename____ --> make your file added in waiting area 
+
+git status
+
+git commit -m "The message we need to give"
+
+git remote add origin ____link_____
+
+git push -u origin master 
