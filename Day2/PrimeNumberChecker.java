@@ -32,4 +32,4 @@ public class PrimeNumberChecker{
       obj.close();
 
   }
-}
+}	
