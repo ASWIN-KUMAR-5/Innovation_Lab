@@ -1,4 +1,4 @@
-package Day3;
+package Innovation_Lab.Tasks.Day3;
 
 public class Book {
     String title;
@@ -29,4 +29,3 @@ public class Book {
 
 
 }
-

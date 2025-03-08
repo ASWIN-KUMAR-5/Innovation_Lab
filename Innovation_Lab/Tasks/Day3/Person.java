@@ -1,4 +1,4 @@
-package Day3;
+package Innovation_Lab.Tasks.Day3;
 
 public class Person{
     String name;
@@ -15,3 +15,4 @@ public class Person{
 
     }
 }
+

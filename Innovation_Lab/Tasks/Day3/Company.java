@@ -1,4 +1,4 @@
-package Day3;
+package Innovation_Lab.Tasks.Day3;
 
 public class Company {
     
@@ -28,4 +28,3 @@ public class Company {
 
     }
 }
-

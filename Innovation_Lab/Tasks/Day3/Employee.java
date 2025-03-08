@@ -1,4 +1,4 @@
-package Day3;
+package Innovation_Lab.Tasks.Day3;
 
 import java.util.Scanner;
 
@@ -36,4 +36,3 @@ public class Employee {
         obj.close();
     }   
 }
-
