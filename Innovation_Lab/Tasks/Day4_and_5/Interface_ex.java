@@ -1,4 +1,4 @@
-package Innovation_Lab.Tasks.Day4and5;
+package Innovation_Lab.Tasks.Day4_and_5;
 
 interface Playable{
 	
